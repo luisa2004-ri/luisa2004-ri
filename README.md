@@ -2,7 +2,7 @@
 
 🎓 **Informatik Student**
 
-🌱 **Ich lerne Grundlagen in:**  
+🌱 **Ich lerne:**  
 - HTML, CSS, JS, PHP  
 - Pascal  
 - SQL
