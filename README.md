@@ -1,5 +1,5 @@
 #👋 Hi, ich bin Luisa
-🎓 Informatik Student
+🎓 **Informatik Student**
 
 🌱 **Ich lerne Grundlagen in:**  
 - HTML, CSS, JS, PHP  
