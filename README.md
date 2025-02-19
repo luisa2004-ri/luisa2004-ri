@@ -1,4 +1,5 @@
-#👋 Hi, ich bin Luisa
+# 👋 Hi, ich bin Luisa
+
 🎓 **Informatik Student**
 
 🌱 **Ich lerne Grundlagen in:**  
@@ -10,3 +11,5 @@
 🔭 **Meine Projekte:** 
 
 📫 **Kontakt & Netzwerke:**  
+
+<!-- markdown -->
