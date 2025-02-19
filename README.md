@@ -1,0 +1,3 @@
+- 👋 Hi, Ich bin Luisa
+- 🌱 Informatik Student
+- ⚡ Grundlagen: HTML, CSS, JS, PHP, Pascal, Java, SQL
